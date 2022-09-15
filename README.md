@@ -32,3 +32,4 @@ One click to rename some files
 > 给你写个python程序，一键改名
 
 Why do I upload this? I don't know.
+Maybe I just don't want to work...
